@@ -8,5 +8,5 @@ The second part of the code uses the Imageio library to compile these images int
 
 It's important to note that the `x` and `y` lists in this example are arbitrary and serve as placeholders for the data you might want to visualize. You can replace these with your own data to visualize different paths or motions. The real power of this code is its ability to convert a sequence of images into a smooth and informative animation.
 
-![Animated](img/example.gif)
+![Animated](img/example_gif.gif)
 
