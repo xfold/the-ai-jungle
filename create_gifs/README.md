@@ -5,6 +5,8 @@
 You can find the jupyter notebook [here](imageio.ipynb)
 {: .alert .alert-warning}
 
+<p>Then an HTML tag with crazy **markup** _all over_ the place!</p>
+
 This Jupyter notebook demonstrates how to create a GIF from a series of images using Python and the libraries Matplotlib and Imageio. The concept is to plot a series of images, save those images to a directory, and then compile them into a GIF.
 
 The first part of the code defines three lists `x`, `y`, and `time`. These lists represent a set of coordinates and corresponding time steps. A function named `create_frame(t)` is then defined which generates a plot of the path traced by the coordinates up to time `t`. This function uses Matplotlib to create the plot, then saves the plot as a PNG image in an `img` directory. The function is then called for each time step, resulting in a series of images that show the path up to each time point.
