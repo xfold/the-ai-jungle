@@ -105,3 +105,7 @@ Here are some examples:
     data = np.random.beta(a=2.0, b=5.0, size=1000)  # a and b are shape parameters, size is the number of samples
     ```
 These functions can generate as many samples as you need by changing the `size` parameter. The larger the size, the more closely the histogram of the data will match the shape of the theoretical distribution.
+
+
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/97e22f31-538a-4272-9fbc-c917adf090f8)
+
