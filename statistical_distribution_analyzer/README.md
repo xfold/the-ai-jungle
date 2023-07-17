@@ -3,6 +3,10 @@
 This small project tries to dig in generating and identifying different statistical distributions using python.
 Here we have a class that, given a list of values generated from an unknown distribution, tries to discover the distirbution from where these values where drawn from.
 
+> **Note**
+> jupyter notebook [here](statistical_distribution_analysis.ipynb)
+> statistical library [here](src/distribution_analyzer.py)
+
 1. **Normal Distribution:** The normal distribution, also known as the Gaussian distribution, is a *continuous* probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. Most of the data are concentrated within ±3 standard deviations from the mean. It is commonly used in statistics and the natural and social sciences as a simple model for complex random variables.
 
     Example: If you measure the height of all the individuals in a population, you'll see that it follows a normal distribution, i.e., most individuals are of average height, while a small proportion is either very tall or very short.

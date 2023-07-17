@@ -1,5 +1,8 @@
 # Visualizing Google Trends Data Over Time
 
+> **Note**
+> jupyter notebook [here](pytrends.ipynb)
+
 This code allows you to retrieve Google Trends data for specific search terms over a specified time period, and then plot this data to visualize how the search interest for these terms has changed over time.
 This code utilizes the `pytrends` package, a Python interface for Google Trends. It consists of two functions: `getdata()` and `plot()`. 
 
