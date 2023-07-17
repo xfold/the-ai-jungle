@@ -1,5 +1,15 @@
 # Creating Animated Visualizations with Python
 
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+NOTE DESCRIPTION
+
+</div>
+</div>
+
 You can find the jupyter notebook [here](imageio.ipynb)
 {: .alert .alert-warning}
 
