@@ -1,11 +1,7 @@
-{::options parse_block_html="true" /}
-
 # Creating Animated Visualizations with Python
 
-You can find the jupyter notebook [here](imageio.ipynb)
-{: .alert .alert-warning}
-
-<p>Then an HTML tag with crazy **markup** _all over_ the place!</p>
+> **Note**<br/>
+**You can find the jupyter notebook [here](imageio.ipynb)**
 
 This Jupyter notebook demonstrates how to create a GIF from a series of images using Python and the libraries Matplotlib and Imageio. The concept is to plot a series of images, save those images to a directory, and then compile them into a GIF.
 
