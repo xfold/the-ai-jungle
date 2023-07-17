@@ -1,6 +1,6 @@
 # The AI Jungle 🌴🤖
 
-Welcome to the (AI Jungle)[https://xfold.github.io/the-ai-jungle/], a repository dedicated to exploring the wild and wonderful world of artificial intelligence. I believe in the power of AI to transform the way we live and work – or as we like to say, to turn the jungle of life into a well-organized rainforest!
+Welcome to the [AI Jungle](https://xfold.github.io/the-ai-jungle/), a repository dedicated to exploring the wild and wonderful world of artificial intelligence. I believe in the power of AI to transform the way we live and work – or as we like to say, to turn the jungle of life into a well-organized rainforest!
 
 ## About This Repository 📚
 
