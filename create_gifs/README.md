@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # Creating Animated Visualizations with Python
 
 You can find the jupyter notebook [here](imageio.ipynb)
