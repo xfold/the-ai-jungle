@@ -1,7 +1,7 @@
 # Statistical Distributions
 
 This small project tries to dig in generating and identifying different statistical distributions using python.
-Here we have a class that, given a list of numbers, tried to disocver whether the distribution of these numbers matches one of the below distributions.
+Here we have a class that, given a list of values generated from an unknown distribution, tries to discover the distirbution from where these values where drawn from.
 
 1. **Normal Distribution:** The normal distribution, also known as the Gaussian distribution, is a *continuous* probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. Most of the data are concentrated within ±3 standard deviations from the mean. It is commonly used in statistics and the natural and social sciences as a simple model for complex random variables.
 
@@ -60,8 +60,6 @@ Therefore, instead of finding P(X = 60), we find P(59.5 < X < 60.5) when using t
 Note: When using the normal distribution to approximate a binomial distribution, the approximation works better for larger values of n, and when p is not too close to 0 or 1. A common rule of thumb is the approximation is reasonable if np > 5 and n(1-p) > 5.
 
 # Drawing from a distribution
-
-Yes, generating examples that follow a specific distribution depends on the type of distribution. Many programming languages, including Python, provide libraries with functions to generate random numbers according to various distributions.
 
 In Python, the NumPy library and the SciPy library have functions for generating random numbers from many common probability distributions.
 
