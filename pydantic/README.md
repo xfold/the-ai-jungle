@@ -1,7 +1,7 @@
 # Pydantic
 
 > **Note**
-> jupyter notebook [here](pydantic.ipynb)
+**You can find the jupyter notebook [here](pydantic.ipynb)**
 
 In this code, I've used the Pydantic library and typing. Both are powerful tool for data validation using Python type annotations. 
 
