@@ -1,18 +1,5 @@
 # Creating Animated Visualizations with Python
 
-    <div class="section row" id="intro">
-    	
-        <div class="col-12">
-    		<br/>
-    		<div class="alert alert-warning">
-			  <strong>Updated Oct 2020</strong>
-			  The paper describing the approach used to discover and categorise the biases presented in this tool can be accessed  
-			<a href="https://arxiv.org/pdf/2010.14448.pdf" class="externallink">here</a>.
-			
-			
-			</div>
-    	</div>
-
 You can find the jupyter notebook [here](imageio.ipynb)
 {: .alert .alert-warning}
 
