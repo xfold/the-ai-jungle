@@ -107,5 +107,4 @@ Here are some examples:
 These functions can generate as many samples as you need by changing the `size` parameter. The larger the size, the more closely the histogram of the data will match the shape of the theoretical distribution.
 
 
-![image](https://github.com/xfold/the-ai-jungle/assets/45178011/97e22f31-538a-4272-9fbc-c917adf090f8)
 
