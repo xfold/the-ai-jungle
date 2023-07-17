@@ -1,8 +1,7 @@
 # Creating Animated Visualizations with Python
 
 <div class="panel panel-info">
-**Note**
-{: .panel-heading}
+
 <div class="panel-body">
 
 NOTE DESCRIPTION
