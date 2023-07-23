@@ -30,3 +30,14 @@ Suppose the result of the Kolmogorov-Smirnov test gives us a statistic of 0.524 
 The K-S statistic of 0.524 represents the maximum difference between the cumulative distribution functions of the two samples. The extremely small p-value suggests that we can confidently reject the null hypothesis that the two samples were drawn from the same distribution.
 
 In other words, these results indicate that the two distributions are significantly different, which aligns with our initial setup where we drew one sample from a Normal distribution and the other from an Exponential distribution.
+
+
+
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/988d5929-efbf-41c2-aa86-ff2bf60a7b09)
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/50233d15-4be6-439f-9ffa-5b6081d8083c)
+```python
+K-S statistic: 0.483
+p-value: 4.805674702886574e-106
+We reject the null hypothesis that the two samples were drawn from the same distribution.
+```
+
