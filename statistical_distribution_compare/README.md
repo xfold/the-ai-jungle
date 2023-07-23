@@ -1,7 +1,7 @@
 # Compare Statistical Distributions using Kolmogorov-Smirnov (K-S) test
 
 > **Note**<br/>
-**You can find the jupyter notebook to compare two distributions manually [here](statistical_distribution_compare.ipynb), , and the statistical library to compare them [here](src/distribution_compare.py)**
+**You can find the jupyter notebook to compare two distributions manually [here](statistical_distribution_compare.ipynb), and the statistical library to compare them [here](src/distribution_compare.py)**
 
 
 The Kolmogorov-Smirnov (K-S) test is a nonparametric test that makes no assumption about the distribution of data. This property makes it suitable for comparing two samples, regardless of the distribution they follow.
