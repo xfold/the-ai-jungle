@@ -1,0 +1,5 @@
+pandas==1.5.3
+Ipython==7.25.0
+apyori==1.1.2
+seaborn==0.11.2
+matplotlib==3.6
