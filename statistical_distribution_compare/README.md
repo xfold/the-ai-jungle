@@ -32,7 +32,7 @@ The K-S statistic of 0.524 represents the maximum difference between the cumulat
 In other words, these results indicate that the two distributions are significantly different, which aligns with our initial setup where we drew one sample from a Normal distribution and the other from an Exponential distribution.
 
 
-
+**Example**
 ![image](https://github.com/xfold/the-ai-jungle/assets/45178011/988d5929-efbf-41c2-aa86-ff2bf60a7b09)
 ![image](https://github.com/xfold/the-ai-jungle/assets/45178011/50233d15-4be6-439f-9ffa-5b6081d8083c)
 ```python
