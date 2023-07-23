@@ -49,3 +49,5 @@ By considering these factors, you can choose the association rules that are most
 
 **Example:**
 Let's say you have generated several association rules from a market basket analysis. Among those rules, you might select the ones with a lift greater than 1.5, a confidence higher than 0.7, and a support greater than 0.05. These rules would indicate strong associations between items with a high likelihood of co-occurrence in customer transactions and are significant enough to be actionable for marketing strategies.
+
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/b53c400f-1eb4-4354-a4ba-1824def06205)
