@@ -10,10 +10,13 @@ It allows for comprehensive analysis of a given dataset with a specific format c
 > Requirements
 > A big chunk of the anlaysis is performed by pivoting around the type of trade `CodeName` and the month to explore drifting. Take a look at the original dataset to see what columns are necessary.
 
-![Alt text](img/image-5.png)
+![Alt text](img/image-1.png)
+
 
 ## Getting Started
 To get started with `TradeAnalyzer`, you need to import the class into your Python environment. Once the class is imported, you can create an instance of the class with your DataFrame.
+
+![Alt text](img/image-3.png)
 
 ```python
 df = pd.read_csv("data/Stats.csv", sep=';')
@@ -95,8 +98,7 @@ All figures are displayed inline and can be further customized using matplotlib 
 
 ## Example Analysis
 ![Alt text](img/image.png)
-![Alt text](img/image-1.png)
 ![Alt text](img/image-2.png)
-![Alt text](img/image-3.png)
 ![Alt text](img/image-4.png)
+![Alt text](img/image-5.png)
 
