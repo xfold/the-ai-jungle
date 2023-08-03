@@ -18,6 +18,8 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 
 [Watch the video here](img/cv_gpt_example.mp4)
 
+[![Watch the video](img/cv_gpt_example.mp4)](img/cv_gpt_example.mp4)
+
 
 ## Usage
 
