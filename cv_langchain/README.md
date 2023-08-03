@@ -15,6 +15,10 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 
 [text](https://j.gifs.com/MZqMKB.gif)
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![Alt Text](https://j.gifs.com/MZqMKB.gif)
+
 ## Usage
 
 ### CVGPT Class
