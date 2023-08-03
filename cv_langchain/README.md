@@ -12,13 +12,9 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 
 ## Video example
 
-<video width="320" height="240" controls>
-  <source src="img/cv_gpt_example.mp4" type="video/mp4">
-</video>
-
 [Watch the video here](img/cv_gpt_example.mp4)
 
-[![Watch the video](img/cv_gpt_example.mp4)](img/cv_gpt_example.mp4)
+[[Watch the video]([img/cv_gpt_example.mp4](https://gifs.com/gif/cvgpt-MZqMKB))](https://gifs.com/gif/cvgpt-MZqMKB)
 
 
 ## Usage
