@@ -13,7 +13,7 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 ## Video example
 <iframe src='//gifs.com/embed/cvgpt-MZqMKB' frameborder='0' scrolling='no' width='1920px' height='1052px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
-
+[text](https://j.gifs.com/MZqMKB.gif)
 
 ## Usage
 
