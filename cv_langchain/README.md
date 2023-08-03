@@ -11,11 +11,6 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 ![Alt text](img/image.png)
 
 ## Video example
-<iframe src='//gifs.com/embed/cvgpt-MZqMKB' frameborder='0' scrolling='no' width='1920px' height='1052px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-
-[text](https://j.gifs.com/MZqMKB.gif)
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ![Alt Text](https://j.gifs.com/MZqMKB.gif)
 
