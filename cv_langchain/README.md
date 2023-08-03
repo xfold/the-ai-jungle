@@ -12,11 +12,7 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 
 ## Video example
 
-[Watch the video here](img/cv_gpt_example.mp4)
-
-[[Watch the video]([img/cv_gpt_example.mp4](https://gifs.com/gif/cvgpt-MZqMKB))](https://gifs.com/gif/cvgpt-MZqMKB)
-
-[Watch the video here](https://gifs.com/gif/cvgpt-MZqMKB)
+![Alt Text](https://gifs.com/gif/cvgpt-MZqMKB)
 
 
 ## Usage
