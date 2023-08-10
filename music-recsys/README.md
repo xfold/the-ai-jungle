@@ -54,7 +54,7 @@ Furthermore, I also explore item-item recommendation based on similarity between
 Here I recommend songs based on their features, such as Artist and Genre, without considering user similarities, in this [Content-based Filtering](3_content_based_recsys.ipynb)
 
 ```python
-> print(recommend_songs('Song0', df_encoded))
+> recommend_songs('Song0', df_encoded)
 
 240    Song240
 140    Song140
