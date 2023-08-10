@@ -43,7 +43,7 @@ I group similar users and recommending songs liked by one user in a group to ano
 
 
 ## User-User Collaborative Filtering
-We recommend new songs to users based on user-user similarity obtained after comparing usre's playlists in this [User-User Collaborative Filtering](2_collaborative_filtering_recsys.ipynb) notebook.
+I recommend new songs to users based on user-user similarity obtained after comparing usre's playlists in this [User-User Collaborative Filtering](2_collaborative_filtering_recsys.ipynb) notebook.
 
 ![Alt text](img/image-3.png)
 
