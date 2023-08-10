@@ -1,0 +1,301 @@
+Title,Artist,Genre,Length (seconds)
+Song0,Christina Aguilera,Pop,290.0
+Song1,The Rolling Stones,Rock,233.0
+Song2,OutKast,Hip-Hop,282.0
+Song3,Jeff Mills,Techno,358.0
+Song4,Arcade Fire,Indie,150.0
+Song5,Ella Fitzgerald,Jazz,238.0
+Song6,Stevie Ray Vaughan,Blues,293.0
+Song7,Garth Brooks,Country,208.0
+Song8,Skrillex,Electronic,217.0
+Song9,Simon & Garfunkel,Folk,354.0
+Song10,Christina Aguilera,Pop,134.0
+Song11,Coldplay,Rock,332.0
+Song12,OutKast,Hip-Hop,251.0
+Song13,Daft Punk,Techno,341.0
+Song14,Arctic Monkeys,Indie,291.0
+Song15,Herbie Hancock,Jazz,141.0
+Song16,Robert Johnson,Blues,353.0
+Song17,Garth Brooks,Country,135.0
+Song18,Calvin Harris,Electronic,238.0
+Song19,Joan Baez,Folk,294.0
+Song20,Justin Timberlake,Pop,203.0
+Song21,The Rolling Stones,Rock,320.0
+Song22,Lil Wayne,Hip-Hop,333.0
+Song23,Richie Hawtin,Techno,166.0
+Song24,Death Cab for Cutie,Indie,259.0
+Song25,John Coltrane,Jazz,259.0
+Song26,B.B. King,Blues,236.0
+Song27,Willie Nelson,Country,131.0
+Song28,Deadmau5,Electronic,183.0
+Song29,Bob Dylan,Folk,257.0
+Song30,Katy Perry,Pop,265.0
+Song31,Coldplay,Rock,155.0
+Song32,Lil Wayne,Hip-Hop,244.0
+Song33,Carl Cox,Techno,134.0
+Song34,Arcade Fire,Indie,249.0
+Song35,Louis Armstrong,Jazz,281.0
+Song36,Muddy Waters,Blues,315.0
+Song37,Dolly Parton,Country,190.0
+Song38,Kraftwerk,Electronic,295.0
+Song39,Bob Dylan,Folk,151.0
+Song40,Madonna,Pop,149.0
+Song41,Foo Fighters,Rock,161.0
+Song42,Nas,Hip-Hop,225.0
+Song43,Moby,Techno,199.0
+Song44,Death Cab for Cutie,Indie,129.0
+Song45,Miles Davis,Jazz,128.0
+Song46,Muddy Waters,Blues,263.0
+Song47,Dolly Parton,Country,137.0
+Song48,Zedd,Electronic,188.0
+Song49,Bob Dylan,Folk,312.0
+Song50,Christina Aguilera,Pop,145.0
+Song51,U2,Rock,249.0
+Song52,Eminem,Hip-Hop,271.0
+Song53,The Chemical Brothers,Techno,335.0
+Song54,Arcade Fire,Indie,218.0
+Song55,Louis Armstrong,Jazz,218.0
+Song56,B.B. King,Blues,297.0
+Song57,Johnny Cash,Country,346.0
+Song58,Kraftwerk,Electronic,322.0
+Song59,Simon & Garfunkel,Folk,182.0
+Song60,Justin Timberlake,Pop,281.0
+Song61,The Rolling Stones,Rock,299.0
+Song62,Nas,Hip-Hop,283.0
+Song63,The Chemical Brothers,Techno,121.0
+Song64,Vampire Weekend,Indie,215.0
+Song65,Billie Holiday,Jazz,169.0
+Song66,Stevie Ray Vaughan,Blues,156.0
+Song67,Reba McEntire,Country,290.0
+Song68,Skrillex,Electronic,349.0
+Song69,Leonard Cohen,Folk,318.0
+Song70,Taylor Swift,Pop,233.0
+Song71,Foo Fighters,Rock,168.0
+Song72,Eminem,Hip-Hop,124.0
+Song73,The Chemical Brothers,Techno,158.0
+Song74,The Shins,Indie,221.0
+Song75,John Coltrane,Jazz,327.0
+Song76,Stevie Ray Vaughan,Blues,139.0
+Song77,Johnny Cash,Country,191.0
+Song78,Calvin Harris,Electronic,269.0
+Song79,Joni Mitchell,Folk,283.0
+Song80,Madonna,Pop,266.0
+Song81,Foo Fighters,Rock,218.0
+Song82,Nas,Hip-Hop,336.0
+Song83,Moby,Techno,264.0
+Song84,The Shins,Indie,347.0
+Song85,John Coltrane,Jazz,190.0
+Song86,John Lee Hooker,Blues,164.0
+Song87,Dolly Parton,Country,313.0
+Song88,Kraftwerk,Electronic,153.0
+Song89,Joni Mitchell,Folk,126.0
+Song90,Madonna,Pop,300.0
+Song91,The Rolling Stones,Rock,282.0
+Song92,Jay-Z,Hip-Hop,326.0
+Song93,The Chemical Brothers,Techno,282.0
+Song94,The Shins,Indie,204.0
+Song95,Miles Davis,Jazz,351.0
+Song96,Muddy Waters,Blues,291.0
+Song97,Garth Brooks,Country,259.0
+Song98,Skrillex,Electronic,191.0
+Song99,Nick Drake,Folk,311.0
+Song100,Britney Spears,Pop,132.0
+Song101,U2,Rock,356.0
+Song102,Lil Wayne,Hip-Hop,186.0
+Song103,Jeff Mills,Techno,312.0
+Song104,Modest Mouse,Indie,129.0
+Song105,Herbie Hancock,Jazz,202.0
+Song106,Eric Clapton,Blues,227.0
+Song107,Willie Nelson,Country,313.0
+Song108,Aphex Twin,Electronic,300.0
+Song109,Leonard Cohen,Folk,262.0
+Song110,Madonna,Pop,138.0
+Song111,U2,Rock,185.0
+Song112,Kanye West,Hip-Hop,269.0
+Song113,The Chemical Brothers,Techno,274.0
+Song114,Death Cab for Cutie,Indie,265.0
+Song115,Ella Fitzgerald,Jazz,234.0
+Song116,Stevie Ray Vaughan,Blues,234.0
+Song117,Dolly Parton,Country,253.0
+Song118,Kraftwerk,Electronic,350.0
+Song119,Leonard Cohen,Folk,309.0
+Song120,Taylor Swift,Pop,309.0
+Song121,Foo Fighters,Rock,342.0
+Song122,Kanye West,Hip-Hop,213.0
+Song123,Carl Cox,Techno,352.0
+Song124,Vampire Weekend,Indie,135.0
+Song125,John Coltrane,Jazz,148.0
+Song126,Stevie Ray Vaughan,Blues,319.0
+Song127,Dolly Parton,Country,281.0
+Song128,Calvin Harris,Electronic,259.0
+Song129,Bob Dylan,Folk,125.0
+Song130,Katy Perry,Pop,166.0
+Song131,Foo Fighters,Rock,242.0
+Song132,Nas,Hip-Hop,258.0
+Song133,Daft Punk,Techno,233.0
+Song134,Arctic Monkeys,Indie,133.0
+Song135,Ella Fitzgerald,Jazz,315.0
+Song136,Eric Clapton,Blues,128.0
+Song137,Willie Nelson,Country,335.0
+Song138,Aphex Twin,Electronic,244.0
+Song139,Leonard Cohen,Folk,279.0
+Song140,Christina Aguilera,Pop,213.0
+Song141,Coldplay,Rock,236.0
+Song142,Eminem,Hip-Hop,329.0
+Song143,Jeff Mills,Techno,312.0
+Song144,Modest Mouse,Indie,202.0
+Song145,Ella Fitzgerald,Jazz,241.0
+Song146,B.B. King,Blues,136.0
+Song147,Willie Nelson,Country,320.0
+Song148,Calvin Harris,Electronic,176.0
+Song149,Nick Drake,Folk,164.0
+Song150,Justin Timberlake,Pop,343.0
+Song151,The Rolling Stones,Rock,194.0
+Song152,Nas,Hip-Hop,290.0
+Song153,Moby,Techno,133.0
+Song154,Arctic Monkeys,Indie,223.0
+Song155,Billie Holiday,Jazz,328.0
+Song156,Stevie Ray Vaughan,Blues,228.0
+Song157,Johnny Cash,Country,171.0
+Song158,Calvin Harris,Electronic,264.0
+Song159,Joan Baez,Folk,181.0
+Song160,Britney Spears,Pop,125.0
+Song161,Foo Fighters,Rock,168.0
+Song162,Nas,Hip-Hop,306.0
+Song163,The Chemical Brothers,Techno,184.0
+Song164,Death Cab for Cutie,Indie,147.0
+Song165,Miles Davis,Jazz,282.0
+Song166,Stevie Ray Vaughan,Blues,189.0
+Song167,Dolly Parton,Country,154.0
+Song168,Skrillex,Electronic,299.0
+Song169,Joan Baez,Folk,199.0
+Song170,Madonna,Pop,134.0
+Song171,Green Day,Rock,173.0
+Song172,Lil Wayne,Hip-Hop,212.0
+Song173,Daft Punk,Techno,227.0
+Song174,Vampire Weekend,Indie,339.0
+Song175,John Coltrane,Jazz,324.0
+Song176,Muddy Waters,Blues,331.0
+Song177,George Strait,Country,208.0
+Song178,Aphex Twin,Electronic,266.0
+Song179,Nick Drake,Folk,259.0
+Song180,Katy Perry,Pop,143.0
+Song181,The Rolling Stones,Rock,299.0
+Song182,Lil Wayne,Hip-Hop,148.0
+Song183,Moby,Techno,281.0
+Song184,Arcade Fire,Indie,222.0
+Song185,Louis Armstrong,Jazz,217.0
+Song186,Stevie Ray Vaughan,Blues,194.0
+Song187,Dolly Parton,Country,177.0
+Song188,Aphex Twin,Electronic,225.0
+Song189,Nick Drake,Folk,195.0
+Song190,Justin Timberlake,Pop,201.0
+Song191,Green Day,Rock,236.0
+Song192,Kanye West,Hip-Hop,152.0
+Song193,Carl Cox,Techno,328.0
+Song194,The Shins,Indie,172.0
+Song195,Billie Holiday,Jazz,144.0
+Song196,B.B. King,Blues,348.0
+Song197,Garth Brooks,Country,318.0
+Song198,Zedd,Electronic,343.0
+Song199,Joan Baez,Folk,317.0
+Song200,Justin Timberlake,Pop,313.0
+Song201,Linkin Park,Rock,159.0
+Song202,Kanye West,Hip-Hop,194.0
+Song203,Jeff Mills,Techno,251.0
+Song204,Modest Mouse,Indie,163.0
+Song205,Miles Davis,Jazz,286.0
+Song206,Robert Johnson,Blues,131.0
+Song207,Dolly Parton,Country,187.0
+Song208,Aphex Twin,Electronic,300.0
+Song209,Simon & Garfunkel,Folk,258.0
+Song210,Britney Spears,Pop,330.0
+Song211,Foo Fighters,Rock,244.0
+Song212,Jay-Z,Hip-Hop,327.0
+Song213,Jeff Mills,Techno,221.0
+Song214,The Shins,Indie,260.0
+Song215,Ella Fitzgerald,Jazz,350.0
+Song216,Stevie Ray Vaughan,Blues,147.0
+Song217,George Strait,Country,264.0
+Song218,Calvin Harris,Electronic,281.0
+Song219,Simon & Garfunkel,Folk,276.0
+Song220,Britney Spears,Pop,198.0
+Song221,U2,Rock,190.0
+Song222,Lil Wayne,Hip-Hop,123.0
+Song223,Jeff Mills,Techno,139.0
+Song224,Arctic Monkeys,Indie,270.0
+Song225,John Coltrane,Jazz,212.0
+Song226,John Lee Hooker,Blues,288.0
+Song227,George Strait,Country,258.0
+Song228,Kraftwerk,Electronic,166.0
+Song229,Bob Dylan,Folk,226.0
+Song230,Britney Spears,Pop,353.0
+Song231,U2,Rock,150.0
+Song232,Eminem,Hip-Hop,162.0
+Song233,Jeff Mills,Techno,269.0
+Song234,Vampire Weekend,Indie,154.0
+Song235,Louis Armstrong,Jazz,280.0
+Song236,Stevie Ray Vaughan,Blues,283.0
+Song237,Dolly Parton,Country,126.0
+Song238,Kraftwerk,Electronic,358.0
+Song239,Joni Mitchell,Folk,303.0
+Song240,Christina Aguilera,Pop,294.0
+Song241,Foo Fighters,Rock,249.0
+Song242,Eminem,Hip-Hop,188.0
+Song243,Richie Hawtin,Techno,281.0
+Song244,Arcade Fire,Indie,212.0
+Song245,Louis Armstrong,Jazz,153.0
+Song246,B.B. King,Blues,193.0
+Song247,George Strait,Country,294.0
+Song248,Aphex Twin,Electronic,298.0
+Song249,Simon & Garfunkel,Folk,268.0
+Song250,Britney Spears,Pop,269.0
+Song251,The Rolling Stones,Rock,164.0
+Song252,Jay-Z,Hip-Hop,293.0
+Song253,Richie Hawtin,Techno,150.0
+Song254,The Shins,Indie,142.0
+Song255,Herbie Hancock,Jazz,138.0
+Song256,B.B. King,Blues,149.0
+Song257,George Strait,Country,281.0
+Song258,Kraftwerk,Electronic,279.0
+Song259,Nick Drake,Folk,194.0
+Song260,Britney Spears,Pop,351.0
+Song261,Coldplay,Rock,249.0
+Song262,Jay-Z,Hip-Hop,239.0
+Song263,Carl Cox,Techno,355.0
+Song264,Vampire Weekend,Indie,130.0
+Song265,Louis Armstrong,Jazz,202.0
+Song266,Robert Johnson,Blues,121.0
+Song267,Dolly Parton,Country,148.0
+Song268,Calvin Harris,Electronic,210.0
+Song269,Nick Drake,Folk,297.0
+Song270,Britney Spears,Pop,208.0
+Song271,The Rolling Stones,Rock,318.0
+Song272,Jay-Z,Hip-Hop,301.0
+Song273,Richie Hawtin,Techno,254.0
+Song274,Modest Mouse,Indie,311.0
+Song275,Billie Holiday,Jazz,315.0
+Song276,Muddy Waters,Blues,303.0
+Song277,Johnny Cash,Country,263.0
+Song278,Deadmau5,Electronic,129.0
+Song279,Nick Drake,Folk,227.0
+Song280,Britney Spears,Pop,324.0
+Song281,The Rolling Stones,Rock,315.0
+Song282,OutKast,Hip-Hop,243.0
+Song283,Moby,Techno,198.0
+Song284,Modest Mouse,Indie,172.0
+Song285,Louis Armstrong,Jazz,162.0
+Song286,John Lee Hooker,Blues,154.0
+Song287,Willie Nelson,Country,136.0
+Song288,Kraftwerk,Electronic,321.0
+Song289,Simon & Garfunkel,Folk,131.0
+Song290,Madonna,Pop,160.0
+Song291,Foo Fighters,Rock,296.0
+Song292,OutKast,Hip-Hop,140.0
+Song293,Richie Hawtin,Techno,132.0
+Song294,Modest Mouse,Indie,208.0
+Song295,Billie Holiday,Jazz,309.0
+Song296,Stevie Ray Vaughan,Blues,315.0
+Song297,Willie Nelson,Country,344.0
+Song298,Calvin Harris,Electronic,320.0
+Song299,Simon & Garfunkel,Folk,287.0

@@ -1,0 +1,75 @@
+Song,Artist,Length,Genre,Datetime,Star_Rating
+Song229,Bob Dylan,226.0,Folk,2023-07-30 08:57:08.134214,5
+Song85,John Coltrane,190.0,Jazz,2023-07-22 13:42:08.134214,3
+Song297,Willie Nelson,344.0,Country,2023-07-12 11:51:08.134214,5
+Song295,Billie Holiday,309.0,Jazz,2023-07-12 23:28:08.134214,3
+Song7,Garth Brooks,208.0,Country,2023-07-20 06:48:08.134214,4
+Song238,Kraftwerk,358.0,Electronic,2023-07-14 03:28:08.134214,4
+Song155,Billie Holiday,328.0,Jazz,2023-07-07 11:11:08.134214,4
+Song145,Ella Fitzgerald,241.0,Jazz,2023-07-16 02:13:08.134214,5
+Song127,Dolly Parton,281.0,Country,2023-08-03 14:12:08.134214,5
+Song215,Ella Fitzgerald,350.0,Jazz,2023-07-12 10:58:08.134214,3
+Song218,Calvin Harris,281.0,Electronic,2023-07-14 02:36:08.134214,3
+Song297,Willie Nelson,344.0,Country,2023-08-02 22:16:08.134214,5
+Song209,Simon & Garfunkel,258.0,Folk,2023-08-03 18:54:08.134214,2
+Song177,George Strait,208.0,Country,2023-07-17 05:44:08.134214,5
+Song198,Zedd,343.0,Electronic,2023-07-12 04:49:08.134214,5
+Song235,Louis Armstrong,280.0,Jazz,2023-07-13 18:58:08.134214,2
+Song247,George Strait,294.0,Country,2023-07-23 03:25:08.134214,5
+Song38,Kraftwerk,295.0,Electronic,2023-08-03 22:09:08.134214,5
+Song17,Garth Brooks,135.0,Country,2023-07-28 23:23:08.134214,3
+Song249,Simon & Garfunkel,268.0,Folk,2023-07-05 00:50:08.134214,3
+Song47,Dolly Parton,137.0,Country,2023-07-15 04:24:08.134214,5
+Song39,Bob Dylan,151.0,Folk,2023-07-07 17:26:08.134214,3
+Song169,Joan Baez,199.0,Folk,2023-07-21 21:30:08.135252,5
+Song125,John Coltrane,148.0,Jazz,2023-07-20 17:10:08.135252,2
+Song59,Simon & Garfunkel,182.0,Folk,2023-07-30 20:31:08.135252,5
+Song178,Aphex Twin,266.0,Electronic,2023-07-22 04:35:08.135252,5
+Song67,Reba McEntire,290.0,Country,2023-07-22 03:47:08.135252,4
+Song39,Bob Dylan,151.0,Folk,2023-07-16 19:21:08.135252,4
+Song248,Aphex Twin,298.0,Electronic,2023-07-23 14:48:08.135252,5
+Song97,Garth Brooks,259.0,Country,2023-07-15 02:00:08.135252,5
+Song217,George Strait,264.0,Country,2023-08-01 14:12:08.135252,5
+Song218,Calvin Harris,281.0,Electronic,2023-07-24 14:02:08.135252,4
+Song28,Deadmau5,183.0,Electronic,2023-07-09 10:50:08.135252,5
+Song18,Calvin Harris,238.0,Electronic,2023-08-03 17:18:08.135252,2
+Song89,Joni Mitchell,126.0,Folk,2023-07-24 01:45:08.135252,5
+Song68,Skrillex,349.0,Electronic,2023-07-29 09:52:08.135252,5
+Song68,Skrillex,349.0,Electronic,2023-07-15 17:52:08.135252,5
+Song228,Kraftwerk,166.0,Electronic,2023-08-03 23:49:08.135252,4
+Song289,Simon & Garfunkel,131.0,Folk,2023-07-22 16:26:08.135252,5
+Song125,John Coltrane,148.0,Jazz,2023-08-02 18:22:08.135252,3
+Song239,Joni Mitchell,303.0,Folk,2023-07-08 01:10:08.135252,5
+Song138,Aphex Twin,244.0,Electronic,2023-07-12 17:22:08.135252,5
+Song177,George Strait,208.0,Country,2023-08-01 18:29:08.135252,5
+Song289,Simon & Garfunkel,131.0,Folk,2023-07-18 07:31:08.135252,5
+Song269,Nick Drake,297.0,Folk,2023-07-28 10:41:08.135252,2
+Song285,Louis Armstrong,162.0,Jazz,2023-07-05 02:08:08.135252,5
+Song288,Kraftwerk,321.0,Electronic,2023-07-08 06:26:08.135252,3
+Song89,Joni Mitchell,126.0,Folk,2023-07-10 12:40:08.135252,5
+Song279,Nick Drake,227.0,Folk,2023-07-17 00:37:08.135252,5
+Song69,Leonard Cohen,318.0,Folk,2023-07-19 23:24:08.135252,5
+Song105,Herbie Hancock,202.0,Jazz,2023-07-17 12:21:08.135252,5
+Song45,Miles Davis,128.0,Jazz,2023-07-06 23:35:08.135252,5
+Song235,Louis Armstrong,280.0,Jazz,2023-07-20 06:58:08.135252,3
+Song147,Willie Nelson,320.0,Country,2023-07-31 18:29:08.135252,4
+Song268,Calvin Harris,210.0,Electronic,2023-07-18 18:09:08.135252,5
+Song95,Miles Davis,351.0,Jazz,2023-07-15 12:22:08.135252,4
+Song249,Simon & Garfunkel,268.0,Folk,2023-07-25 01:23:08.135252,4
+Song239,Joni Mitchell,303.0,Folk,2023-07-21 08:06:08.135252,5
+Song25,John Coltrane,259.0,Jazz,2023-07-13 18:05:08.135252,2
+Song17,Garth Brooks,135.0,Country,2023-07-19 01:39:08.135252,4
+Song5,Ella Fitzgerald,238.0,Jazz,2023-08-03 01:42:08.135252,5
+Song49,Bob Dylan,312.0,Folk,2023-07-19 04:13:08.135252,2
+Song119,Leonard Cohen,309.0,Folk,2023-08-02 00:27:08.135252,3
+Song235,Louis Armstrong,280.0,Jazz,2023-07-14 11:59:08.135252,4
+Song148,Calvin Harris,176.0,Electronic,2023-07-14 06:41:08.135252,2
+Song158,Calvin Harris,264.0,Electronic,2023-07-28 08:34:08.135252,3
+Song135,Ella Fitzgerald,315.0,Jazz,2023-07-05 08:39:08.135252,2
+Song127,Dolly Parton,281.0,Country,2023-07-21 17:02:08.135252,5
+Song269,Nick Drake,297.0,Folk,2023-08-03 00:57:08.135252,3
+Song29,Bob Dylan,257.0,Folk,2023-07-05 12:58:08.135252,5
+Song288,Kraftwerk,321.0,Electronic,2023-07-20 15:07:08.135252,4
+Song157,Johnny Cash,171.0,Country,2023-07-18 00:10:08.135252,4
+Song78,Calvin Harris,269.0,Electronic,2023-07-22 08:16:08.135252,4
+Song109,Leonard Cohen,262.0,Folk,2023-07-30 14:48:08.135252,4
