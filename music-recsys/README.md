@@ -31,7 +31,8 @@ I initially wanted to request my own playlist from `Spotify`, however, it seems 
 ## Dataset Description 
 The jupyter notebook [Describe Dataset](0_describe_dataset.ipynb) describes the dataset statistically, exploring genres, users and playlists.
 
-![Alt text](img/image.png)
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/3420a69f-de0f-4b34-bed1-ff0ca07ed240)
+
 
 
 ## K-means Clustering
