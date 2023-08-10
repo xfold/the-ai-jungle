@@ -38,7 +38,7 @@ The jupyter notebook [Describe Dataset](0_describe_dataset.ipynb) describes the 
 ## K-means Clustering
 I group similar users and recommending songs liked by one user in a group to another in this [Clustering](1_basic_clustering.ipynb) notebook.
 
-![Alt text](img/image-1.png)
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/ffde29c0-2304-4e87-bd31-6ca864b6344e)
 ![Alt text](img/image-2.png)
 
 
