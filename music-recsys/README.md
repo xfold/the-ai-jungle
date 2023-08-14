@@ -31,18 +31,19 @@ I initially wanted to request my own playlist from `Spotify`, however, it seems 
 ## Dataset Description 
 The jupyter notebook [Describe Dataset](0_describe_dataset.ipynb) describes the dataset statistically, exploring genres, users and playlists.
 
-![Alt text](img/image.png)
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/3420a69f-de0f-4b34-bed1-ff0ca07ed240)
+
 
 
 ## K-means Clustering
 I group similar users and recommending songs liked by one user in a group to another in this [Clustering](1_basic_clustering.ipynb) notebook.
 
-![Alt text](img/image-1.png)
+![image](https://github.com/xfold/the-ai-jungle/assets/45178011/ffde29c0-2304-4e87-bd31-6ca864b6344e)
 ![Alt text](img/image-2.png)
 
 
 ## User-User Collaborative Filtering
-We recommend new songs to users based on user-user similarity obtained after comparing usre's playlists in this [User-User Collaborative Filtering](2_collaborative_filtering_recsys.ipynb) notebook.
+I recommend new songs to users based on user-user similarity obtained after comparing usre's playlists in this [User-User Collaborative Filtering](2_collaborative_filtering_recsys.ipynb) notebook.
 
 ![Alt text](img/image-3.png)
 
@@ -54,7 +55,7 @@ Furthermore, I also explore item-item recommendation based on similarity between
 Here I recommend songs based on their features, such as Artist and Genre, without considering user similarities, in this [Content-based Filtering](3_content_based_recsys.ipynb)
 
 ```python
-> print(recommend_songs('Song0', df_encoded))
+> recommend_songs('Song0', df_encoded)
 
 240    Song240
 140    Song140
