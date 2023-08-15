@@ -10,7 +10,7 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 
 ![Alt text](img/image.png)
 
-## How it works
+## Retrieval-Augmented Generation - How it works
 The project is structured as following
 1. Loads my CV (or any other pdf document) and split its content into smaller chunks (or documents).
 2. Convert these documents into embeddings using the OpenAI embeddings.
