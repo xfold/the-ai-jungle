@@ -17,7 +17,7 @@ The project is structured as following
 3. Store these embeddings in a database (vectordb).
 4. Use a GPT model (specified by model_name) in combination with the embedded document database to answer questions.
 
-A good explanation of the whole process can be found [here](https://bdtechtalks.com/2023/05/01/customize-chatgpt-llm-embeddings/) (see image, from the same website). 
+A good explanation of the whole process can be found [here](https://bdtechtalks.com/2023/05/01/customize-chatgpt-llm-embeddings/) (the image below is from the same website). 
 
 ![Alt text](img/image22.png)
 
