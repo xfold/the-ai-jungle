@@ -10,14 +10,14 @@ I wrapped all this in a CVGPT class that facilitates querying the GPT model and 
 
 ![Alt text](img/image.png)
 
-## How it works
+## Retrieval-Augmented Generation - How it works
 The project is structured as following
 1. Loads my CV (or any other pdf document) and split its content into smaller chunks (or documents).
 2. Convert these documents into embeddings using the OpenAI embeddings.
 3. Store these embeddings in a database (vectordb).
 4. Use a GPT model (specified by model_name) in combination with the embedded document database to answer questions.
 
-A good explanation of the whole process can be found (here)[https://bdtechtalks.com/2023/05/01/customize-chatgpt-llm-embeddings/] (see image, from the same website). 
+A good explanation of the whole process can be found [here](https://bdtechtalks.com/2023/05/01/customize-chatgpt-llm-embeddings/) (the image below is from the same website). 
 
 ![Alt text](img/image22.png)
 
