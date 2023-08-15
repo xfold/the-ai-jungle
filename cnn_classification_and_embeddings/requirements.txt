@@ -1,0 +1,6 @@
+tensorflow==2.6.0
+streamlit==1.0.0
+numpy==1.21.2
+PIL==8.3.2
+umap-learn==0.5.1
+matplotlib==3.4.3

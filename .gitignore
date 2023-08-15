@@ -4,3 +4,4 @@ _Others/*
 cv_langchain/data/*.pdf
 .vectordb
 .vector
+cnn_classification_and_embeddings/data/*
