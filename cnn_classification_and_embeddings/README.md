@@ -4,7 +4,7 @@ This project is a personal exploration into CNN and classification tasks. I chec
 For this, a CNN was used,  Dropout, EarlyStopping and Normalisation techniques were used to avoid overfitting. I Followed the next steps
 
 
-<img src="img/CNN_short.gif" width="350"/>
+<img src="img/CNN_short.gif" width="500"/>
 
 
 ## Dataset Augmentation
@@ -26,14 +26,14 @@ I designed a CNN model for the task of image classification. The model distingui
 The model's performance was evaluated using metrics like accuracy and was visualized using confusion matrices.
 
 
-<img src="img/image11.png" width="350"/>
+<img src="img/image11.png" width="500"/>
 
 
 ## Embeddings Exploration with UMAP
 
 The last layer of the CNN, before the final classification layer, acted as an embedding layer, converting images into feature vectors. To understand the relationships between these embeddings, I utilized UMAP (Uniform Manifold Approximation and Projection) to reduce their dimensionality and visualize them in a 2D space. This helped in understanding how different images clustered together based on their inherent features.
 
-<img src="img/image-1.png" width="350"/>
+<img src="img/image-1.png" width="500"/>
 
 
 ## Interactive Dashboard with Streamlit
