@@ -19,7 +19,6 @@ Fine-tuning a BERT model (or any pre-trained model) is essentially a process of 
 7. **Shorter Training Time**: Since the model starts from a point where it already understands the language to a certain extent, it converges faster. Thus, fine-tuning often requires fewer epochs compared to training a model from scratch.
 
 In essence, when fine-tuning BERT:
-
 - You leverage the extensive knowledge BERT has gained during its pre-training phase.
 - You make the model adapt to the specifics of your task and dataset, without forgetting its prior knowledge.
 - You add and train task-specific layers to make predictions suitable for your needs.
