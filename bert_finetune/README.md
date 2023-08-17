@@ -6,7 +6,7 @@ In this project, we aim to classify sentences based on whether they sound more l
 
 BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based architecture that's pre-trained on a vast amount of text. Fine-tuning it allows us to leverage the pre-trained weights and adapt them to our specific task, which, in this case, is classifying sentences based on their speaker.
 
-<img src="img/bert_class.gif" width="350"/>
+<img src="img/bert_class.gif" width="500"/>
 
 ## Methodology
 
