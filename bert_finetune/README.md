@@ -8,6 +8,24 @@ BERT (Bidirectional Encoder Representations from Transformers) is a transformer-
 
 <img src="img/bert_class.gif" width="700"/>
 
+## Fine-tuning a BERT to classify
+Fine-tuning a BERT model (or any pre-trained model) is essentially a process of adapting a model that was previously trained on a large dataset to a specific task or dataset that might be much smaller. Here's what happens when you fine-tune a model like BERT:
+1. **Starting Point**: Instead of starting with random weights, when you fine-tune, you start with the pre-trained weights. These weights already contain a lot of information about the language due to being trained on a massive amount of text. 
+2. **Adapting Layers**: All layers of BERT, from embeddings up to the high-level transformer blocks, are slightly adjusted during fine-tuning. The gradients are backpropagated through the entire model. 
+3. **Task-Specific Head**: BERT is pre-trained using a masked language model objective, where it learns to predict missing words in a sentence. 
+4. **Classification Fine-tuning**: A fully connected layer is added on top of the BERT output for the `[CLS]` token. This layer produces the final class scores. During fine-tuning, the weights of this new layer are learned from scratch, while the rest of the BERT weights are adjusted.
+5. **Learning Rate**: Typically, a smaller learning rate is used for fine-tuning than for training from scratch. This ensures that the model doesn't deviate too drastically from the pre-trained weights. Sometimes, different learning rates are used for the pre-trained layers and the task-specific head.
+6. **Regularization**: Because the datasets we fine-tune on are often much smaller than the datasets used for pre-training, there's a risk of overfitting. Techniques like dropout, weight decay, or even reducing the model size (e.g., using DistilBERT instead of BERT) can help.
+7. **Shorter Training Time**: Since the model starts from a point where it already understands the language to a certain extent, it converges faster. Thus, fine-tuning often requires fewer epochs compared to training a model from scratch.
+
+In essence, when fine-tuning BERT:
+
+- You leverage the extensive knowledge BERT has gained during its pre-training phase.
+- You make the model adapt to the specifics of your task and dataset, without forgetting its prior knowledge.
+- You add and train task-specific layers to make predictions suitable for your needs.
+
+Fine-tuning allows you to get state-of-the-art performance with much less data and training time than training a deep model from scratch, especially for tasks where large labeled datasets are not available.
+
 ## Methodology
 
 ### Data Preprocessing
