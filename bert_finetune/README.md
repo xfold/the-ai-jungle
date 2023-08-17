@@ -8,7 +8,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a transformer-
 
 <img src="img/bert_class.gif" width="700"/>
 
-## Fine-tuning a BERT to classify
+## Fine-Tuning BERT to Classify
 Fine-tuning a BERT model (or any pre-trained model) is essentially a process of adapting a model that was previously trained on a large dataset to a specific task or dataset that might be much smaller. Here's what happens when you fine-tune a model like BERT:
 1. **Starting Point**: Instead of starting with random weights, when you fine-tune, you start with the pre-trained weights. These weights already contain a lot of information about the language due to being trained on a massive amount of text. 
 2. **Adapting Layers**: All layers of BERT, from embeddings up to the high-level transformer blocks, are slightly adjusted during fine-tuning. The gradients are backpropagated through the entire model. 
