@@ -34,8 +34,12 @@ class DistributionAnalyzer:
 
         """
         dists = ["Normal", "Binomial", "Uniform", "Poisson", "Exponential", "Beta"]
-        dist_checks = [self.is_normal(), self.is_binomial(), self.is_uniform(), 
-                       self.is_poisson(), self.is_exponential(), self.is_beta()]
+        dist_checks = [self.is_normal(), 
+                       self.is_binomial(), 
+                       self.is_uniform(), 
+                       #self.is_poisson(), 
+                       self.is_exponential(), 
+                       self.is_beta()]
 
         dist_true = [d for d, check in zip(dists, dist_checks) if check]
 
@@ -74,20 +78,20 @@ class DistributionAnalyzer:
         k2, p = stats.kstest(self.data, 'uniform')
         return p > 0.05
 
-    def is_poisson(self):
-        unique, counts = np.unique(self.data, return_counts=True)
-        # Calculate probabilities based on a Poisson distribution
-        expected_probabilities = stats.poisson.pmf(unique, self.mean)
-        # Multiply by total number of observations to get expected counts
-        expected_counts = expected_probabilities * self.n
-        # Check if all expected counts are zero
-        if np.all(expected_counts == 0):
-            return False
-        # Normalize expected counts so their sum equals the sum of observed counts
-        expected_counts *= np.sum(counts) / np.sum(expected_counts)
-        # Compare observed and expected counts using a chi-squared test
-        chi2, p = stats.chisquare(counts, expected_counts)
-        return p > 0.05
+    #def is_poisson(self):
+    #    unique, counts = np.unique(self.data, return_counts=True)
+    #    # Calculate probabilities based on a Poisson distribution
+    #    expected_probabilities = stats.poisson.pmf(unique, self.mean)
+    #    # Multiply by total number of observations to get expected counts
+    #    expected_counts = expected_probabilities * self.n
+    #    # Check if all expected counts are zero
+    #    if np.all(expected_counts == 0):
+    #        return False
+    #    # Normalize expected counts so their sum equals the sum of observed counts
+    #    expected_counts *= np.sum(counts) / np.sum(expected_counts)
+    #    # Compare observed and expected counts using a chi-squared test
+    #    chi2, p = stats.chisquare(counts, expected_counts)
+    #    return p > 0.05
 
 
     def is_exponential(self):
