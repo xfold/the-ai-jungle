@@ -33,7 +33,12 @@ class DistributionAnalyzer:
         plots the data if it matches any known distribution.
 
         """
-        dists = ["Normal", "Binomial", "Uniform", "Poisson", "Exponential", "Beta"]
+        dists = ["Normal", 
+                 "Binomial", 
+                 "Uniform", 
+                 #"Poisson", 
+                 "Exponential", 
+                 "Beta"]
         dist_checks = [self.is_normal(), 
                        self.is_binomial(), 
                        self.is_uniform(), 
