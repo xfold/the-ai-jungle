@@ -6,9 +6,14 @@ authors = ["Your Name <you@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ">=3.10,<4.0"
 numpy = "^1.26.0"
-
+torch = {version = "^2.6.0", source = "pypi"}
+torchvision = {version = "^0.21.0", source = "pypi"}
+torchaudio = {version = "^2.6.0", source = "pypi"}
+scikit-image = "^0.25.1"
+gdown = "^5.2.0"
+matplotlib = "^3.10.0"
 
 [build-system]
 requires = ["poetry-core"]

@@ -7,3 +7,6 @@ cv_langchain/data/*.pdf
 cnn_classification_and_embeddings/data/*
 bert_finetune/data/*
 bert_finetune/model/*
+dim_reduction/data/*
+.venv
+dim_reduction/poetry.lock
