@@ -10,3 +10,4 @@ bert_finetune/model/*
 dim_reduction/data/*
 .venv
 dim_reduction/poetry.lock
+*.pth
